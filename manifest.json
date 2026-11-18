@@ -1,0 +1,10 @@
+{
+  "name": "HealthyDay - Hábitos saludables",
+  "short_name": "HealthyDay",
+  "description": "Organiza tus comidas y recuerda tomar agua.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#eaf8f0",
+  "icons": []
+}
